@@ -23,7 +23,7 @@ Programming Experience:
 10th Grade Year: In 2-5 sentences, describe each of the programming projects you’ve completed this year.  Think back to Block 1, Block 2/3, and your Passion Project (if that applies).
 
 
--During 10th grade so far, I have continued studying python with projects like a die roller and a discord bot. I also learned more about pseudocode and bianary code, which helped me understand the basics about how the internet works and how information is transmitted.
+-During 10th grade so far, I have continued studying python with projects like a die roller and a discord bot. I also learned more about hexidecimal and bianary code, which helped me understand the basics about how the internet works and how information is transmitted.
 
 
 
