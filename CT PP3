@@ -1,0 +1,29 @@
+import random
+import time
+
+name = input("Hello! What is your name?")
+print("Hello " + name)
+
+feeling = input("How are you today?")
+#if elif else
+if "good" in feeling:
+    print("Im glad! I am good also")
+elif "tired" in feeling:
+    print("Oh no, I hope you can get some rest soon")
+else:
+    print("I get that, me too")
+
+favoritecolor = input("What is your favorite color")
+#This is my list below
+colors = ["Sky Blue", "Leafy Green" , "Sunset Orange"]
+#random
+print("Nice choice! My favorite color is " + random.choice(colors))
+
+#def function
+def goodbye():
+    time.sleep(2)
+    print("Thank you for talking with me!")
+
+goodbye()
+
+
