@@ -53,7 +53,7 @@ def addToList():
     myList.append(int(newItem))
 
 def addABunch():
-    print("We're gonna ass a bunch of integers to your list!")
+    print("We're gonna add a bunch of integers to your list!")
     numToAdd = input("How many numbers do you want to add?  ")
     numRange = input("How high do you want the numbers to go?  ")
     for x in range(0, int(numToAdd)):
