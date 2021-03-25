@@ -9,9 +9,6 @@ Program Goals:
     a. Random Search
     b. Linear Search
     c. Binary Search (2 Types)
-    #try to add: 1) a count of how many times a number is present linear search
-    #try to add: 2) a way for the formatted text to be one line
-    #print("Your item is at index position {}".format(x)) int search item
 """
 import random
 myList = []
@@ -51,7 +48,6 @@ def mainProgram():
                 break
         except:
         #If the commands under try doesnt work send this. In case of errors except
-
             print("You caught an error!")
 
 def addToList():
