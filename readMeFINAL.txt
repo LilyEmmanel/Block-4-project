@@ -19,8 +19,8 @@ without continuing to call itself like recursive search. It is shorter because i
 
 My Changes:
 	In this program there were a few places for improvement that stood out to me the most. First I thought it was a bit confusing to print all of the options to 
-the user before they had sorted their list, if I only showed the options available to them without having sorted their list, they would know what order to complete 
-the options and not end up with any errors. I did this by using 'if' and 'if not' statements. If the user didnt have unique_list only show them the basic options and
+the user before they had sorted their list. If I only showed the options available to them that would work without having sorted their list, they would know what order to
+complete the options and not end up with any errors. I did this by using 'if' and 'if not' statements. If the user didnt have unique_list only show them the basic options and
 once they sorted their list they would have access to everything.
 Example below:
 
